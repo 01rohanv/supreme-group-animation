@@ -14,7 +14,9 @@ A modern scroll-driven UI built with **Next.js**, **TypeScript**, **Tailwind CSS
 ### Setup
 
 ```bash
-
+# Clone the repository
+git clone https://github.com/01rohanv/supreme-group-animation.git
+cd supreme-group-animation
 
 # Install dependencies
 npm install
